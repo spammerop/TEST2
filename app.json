@@ -56,11 +56,6 @@
       "value": "1529675020 1610243542",
       "required": false
     },
-    "COMMAND_HAND_LER": {
-      "description": "Needed for Lydia AI. Follow https://telegra.ph/Lydia-09-05 to get your API.",
-      "value": "*",
-      "required": false
-    },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
       "value": ""
