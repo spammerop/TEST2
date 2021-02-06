@@ -98,7 +98,7 @@
       "value": "Asia/Kolkata",
       "required": false
     },
-  },
+
   "addons": [
     {
       "plan": "heroku-postgresql",
