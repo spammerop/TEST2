@@ -115,11 +115,6 @@
       "value": "",
       "required": false
     },
-    "TG_BOT_TOKEN_BF_HER": {
-      "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": ""
-      "required":false
-    },
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
       "value": "/app/.apt/usr/bin/google-chrome",
@@ -128,11 +123,6 @@
     "CHROME_DRIVER": {
       "description": "For Carbon.py. Leave as it is. ",
       "value": "/app/.chromedriver/bin/chromedriver",
-      "required":false
-    },
-    "TG_BOT_USER_NAME_BF_HER": {
-      "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": ""
       "required":false
     },
     "OPEN_WEATHER_MAP_APPID": {
